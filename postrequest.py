@@ -33,5 +33,3 @@ if response.status_code == 200:
 else:
     print(f"fail: {response.status_code}")
     print(f"Response: {response.text}")
-
-#eyJhbGciOiJIUzI1NiJ9.eyJyZWdObyI6IjA4MjdBTDIyMTAxNyIsIm5hbWUiOiJBbWl0IFBhdGhhcmthciIsImVtYWlsIjoiYW1pdHBhdGhhcmthcjIyMDg2MEBhY3JvcG9saXMuaW4iLCJzdWIiOiJ3ZWJob29rLXVzZXIiLCJpYXQiOjE3NDY5NjI3MzksImV4cCI6MTc0Njk2MzYzOX0.lXPCSJ1O16o274TWxBIf0MMQQJE0xAfg9C2n0nLB8Bo
